@@ -11,6 +11,8 @@ LeakyReLU and a 2x2 max pooling operation with stride 2 for downsampling. Almost
 channels.  The Convolutions are followed by 1 Dense layer at the final stage of the newtork. The following image shows the predicted facial key points (green) and the 
 given facial key points from the dataset (red): 
 
+![image](https://user-images.githubusercontent.com/43147324/88334071-de9ecb00-cd39-11ea-9a34-7b581643d61c.png)
+
 
 
 
